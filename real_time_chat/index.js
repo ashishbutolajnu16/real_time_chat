@@ -15,6 +15,7 @@ var errorCallback = function(err, notif) {
 }
 //setting options in options
 //get changes
+//next line added
 var options = {
   // key: __dirname + '/PushDevCertKey.pem',
   // cert: __dirname + '/PushDevCertKey.pem',
