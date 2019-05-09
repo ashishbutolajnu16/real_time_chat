@@ -13,7 +13,9 @@ var path = require('path');
 var errorCallback = function(err, notif) {
   console.log('ERROR : ' + err + '\nNOTIFICATION : ' + notif);
 }
-//setting options
+//setting options in options
+//get changes
+//next line added
 var options = {
   // key: __dirname + '/PushDevCertKey.pem',
   // cert: __dirname + '/PushDevCertKey.pem',
