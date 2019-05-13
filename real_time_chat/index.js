@@ -35,7 +35,8 @@ var errorCallback = function(err, notif) {
 //heyt there
 // hey there1
 // How we roll
-// This is a comment
+// Hey there
+// New comment
 var options = {
   // key: __dirname + '/PushDevCertKey.pem',
   // cert: __dirname + '/PushDevCertKey.pem',
